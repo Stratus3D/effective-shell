@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.27.5](https://github.com/dwmkerr/effective-shell/compare/v0.27.4...v0.27.5) (2023-08-03)
+
+
+### Documentation
+
+* add leeli0 as a contributor for bug ([#295](https://github.com/dwmkerr/effective-shell/issues/295)) ([d735d7b](https://github.com/dwmkerr/effective-shell/commit/d735d7bb05dc3c1bb015aaef5f07d518c9f2a2c5))
+* add linjielig as a contributor for bug, doc, and review ([#293](https://github.com/dwmkerr/effective-shell/issues/293)) ([9fd60bd](https://github.com/dwmkerr/effective-shell/commit/9fd60bdf67bda225415188f36c7284434a50c095))
+
 ## [0.27.4](https://github.com/dwmkerr/effective-shell/compare/v0.27.3...v0.27.4) (2023-07-05)
 
 
